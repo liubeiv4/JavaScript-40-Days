@@ -1,6 +1,16 @@
 ## 什么是HTML5？
-### 视频介绍链接：链接：https://pan.baidu.com/s/1_-RndtMp-sKmVOwyMraEJg    提取码：uccp 
-> html => 超文本标记语言(Hyper Text Markup Language)，标准通用标记语言下的一个应用。HTML 不是一种编程语言，而是一种标记语言 (markup language)，是网页制作所必备的
+### 视频介绍链接：
+>链接：https://pan.baidu.com/s/1_-RndtMp-sKmVOwyMraEJg    提取码：uccp 
+
+### 前端小白入门视频
+> 链接：https://pan.baidu.com/s/1SbRyTk_TJA4V1ESaQqF5zg 
+提取码：5q64 
+
+## ==加群领取全套教学视频==
+![image](http://m.qpic.cn/psb?/V13wE8sQ0FBtUy/kfEY3YSS.1gQplnAEBFe3V1VQOqnIchtFvj1BDTP4jM!/b/dEABAAAAAAAA&bo=HALkAgAAAAARB8g!&rf=viewer_4)
+
+## HTML
+> 超文本标记语言(Hyper Text Markup Language)，标准通用标记语言下的一个应用。HTML 不是一种编程语言，而是一种标记语言 (markup language)，是网页制作所必备的
 >####  HTML5是HTML网页标准的5.0版本，下面是一些关于前端知识的简介。
 
 ### 1、名词解释
