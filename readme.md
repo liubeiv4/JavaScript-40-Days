@@ -3,8 +3,8 @@
 >链接：https://pan.baidu.com/s/1_-RndtMp-sKmVOwyMraEJg    提取码：uccp 
 
 ### 前端小白入门视频
-> 链接：https://pan.baidu.com/s/1SbRyTk_TJA4V1ESaQqF5zg 
-提取码：5q64 
+> 链接：https://pan.baidu.com/s/17NYiOPoy9yGk-eowGXNoZQ 
+提取码：7ngd 
 
 ![image](http://m.qpic.cn/psb?/V13wE8sQ0FBtUy/0IrX3l4Ub59pz0Y9YTjMW9jJSClJoXTufnDC3XEIsCg!/b/dLgAAAAAAAAA&bo=9AH3AAAAAAARBzI!&rf=viewer_4)
 ## HTML
