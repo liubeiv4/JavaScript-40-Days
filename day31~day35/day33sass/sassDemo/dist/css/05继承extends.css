@@ -1,9 +1,0 @@
-.alert, .alert_info {
-  background-color: red; }
-  .alert a, .alert_info a {
-    color: orange; }
-    .alert a:hover, .alert_info a:hover {
-      font-size: 30px; }
-
-.alert_info {
-  text-align: center; }
