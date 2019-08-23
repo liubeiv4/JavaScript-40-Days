@@ -1,3 +1,7 @@
+## Javascript - 40天 从新手到大师
+>本教程，集合了图文、视频、代码、项目所有内容， 让你全方位立体式的进行JS的学习
+>文章内容会陆续发布，欢迎关注并加星，感谢。
+
 ## 什么是HTML5？
 ### 视频介绍链接：
 >链接：https://pan.baidu.com/s/1_-RndtMp-sKmVOwyMraEJg    提取码：uccp 
