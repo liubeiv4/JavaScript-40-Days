@@ -13,6 +13,7 @@
 提取码：7ngd 
 
   如果你已经具备基本的网页知识，那么你可以跳过下面的介绍， 直接从 day01开始， 马上进入JS的学习
+  学习过程中，有任何问题，你也可以加入我们学习交流群。
 
 ![image](http://m.qpic.cn/psb?/V13wE8sQ0FBtUy/0IrX3l4Ub59pz0Y9YTjMW9jJSClJoXTufnDC3XEIsCg!/b/dLgAAAAAAAAA&bo=9AH3AAAAAAARBzI!&rf=viewer_4)
 ## HTML
