@@ -3,14 +3,16 @@
 
 >文章内容会陆续发布，欢迎关注并加星，感谢。
 
-## 什么是HTML5？
+#### 如果你还是一个小白，不了解HTML5是什么，请查看下面的视频，5分钟即可快速入门。
 ### 视频介绍链接：
 >链接：https://pan.baidu.com/s/1_-RndtMp-sKmVOwyMraEJg    提取码：uccp 
 
-
-### 前端小白入门视频
+#### 如果你还不具备HMTL+CSS的基本知识，请查看下面的免费视频教程
+#### 前端小白福音之《HTMLCSS极速入门》
 > 链接：https://pan.baidu.com/s/17NYiOPoy9yGk-eowGXNoZQ 
 提取码：7ngd 
+
+  如果你已经具备基本的网页知识，那么你可以跳过下面的介绍， 直接从 day01开始， 马上进入JS的学习
 
 ![image](http://m.qpic.cn/psb?/V13wE8sQ0FBtUy/0IrX3l4Ub59pz0Y9YTjMW9jJSClJoXTufnDC3XEIsCg!/b/dLgAAAAAAAAA&bo=9AH3AAAAAAARBzI!&rf=viewer_4)
 ## HTML
